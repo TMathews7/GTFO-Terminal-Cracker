@@ -2,7 +2,7 @@
 GTFO - Terminal Cracker is a tool that types password guesses into terminals. 
 Yes this is a tool for cheating. Yes it is cringe to wait 40 minutes to crack a terminal.
 
-## ⚠️ Important Notice
+## ⚠️ Important Notice ⚠️ ## - Because I am bad at python.
 
 - This tool **takes control of your keyboard input**.
 - It simulates real keypresses using `pyautogui`, meaning **it will actively type and press keys on your system**.
